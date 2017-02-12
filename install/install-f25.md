@@ -23,9 +23,7 @@ sudo pip3 install -r requirements.pip
 ## Bower install javascript
 ```
 npm -g install bower
-cd server
 bower install
-cd ..
 ```
 
 ## Systemd Service
